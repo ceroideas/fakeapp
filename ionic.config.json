@@ -1,0 +1,7 @@
+{
+  "name": "fakeApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
