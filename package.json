@@ -31,7 +31,7 @@
     "@ionic/storage": "^2.2.0",
     "angular-jwt": "^0.1.11",
     "angular-lock": "^3.0.2",
-    "auth0-js": "^9.11.3",
+    "auth0-js": "^9.13.2",
     "cordova-android": "7.1.4",
     "cordova-instagram-plugin": "^0.5.8",
     "cordova-plugin-camera": "^4.1.0",
